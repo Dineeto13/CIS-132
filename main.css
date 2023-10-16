@@ -26,7 +26,12 @@ nav > ul {line-height:2em;
 main {width: 66%;
       height: 350px;
       border-right: 2px solid #ef9c00;
-      float: left;}
+      float: left;
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;}
+
+.wrapper {flex: 1;}
 
 aside {width: 33%;
        float: right;}
