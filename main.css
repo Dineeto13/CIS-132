@@ -1,4 +1,4 @@
-body {background-color: grey;
+body {background-color: #a52a2a;
       font-family: Segoe, Verdana, sans-serif;
      max-width: 80%;
      margin: auto;}
@@ -36,9 +36,9 @@ main {width: 66%;
 aside {width: 33%;
        float: right;}
 
-section {background-color: darkorange;
+section {background-color: #006400;
          width: 75%;
          font-size: 1.2em;}
 
-footer {background-color: red;}
+footer {background-color: #87cefa;}
 
