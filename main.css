@@ -1,5 +1,7 @@
 body {background-color: grey;
-      font-family: Segoe, Verdana, sans-serif;}
+      font-family: Segoe, Verdana, sans-serif;
+     max-width: 80%;
+     margin: auto;}
 
 header {background-color: red;
        }
