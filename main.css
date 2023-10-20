@@ -1,12 +1,12 @@
-body {background-color: white;
+body {background-color: darkolivegreen;
       font-family: Segoe, Verdana, sans-serif;
      max-width: 80%;
      margin: auto;}
 
-header {background-color: #ff6347;
+header {background-color: darkolivegreen;
        }
 
-h1{color:white;}
+h1{color:chartreuse;}
 
 nav > ul {line-height:2em;
           list-style-type: none;
@@ -20,12 +20,12 @@ nav > ul {line-height:2em;
 #nav_menu ul li {display: inline;
                  padding: 0.5em;}
 #nav_menu ul li a {font-weight: bold;
-                   color: blue;}
+                   color: chartreuse;}
 #nav_menu ul li a.current {text decoration: none;}
 
 main {width: 66%;
       height: 350px;
-      border-right: 2px solid #ef9c00;
+      border-right: 2px solid black;
       float: left;
      min-height: 100vh;
      display: flex;
@@ -36,7 +36,7 @@ main {width: 66%;
 aside {width: 33%;
        float: right;}
 
-section {background-color: #006400;
+section {background-color: darkolivegreen;
          width: 75%;
          font-size: 1.2em;}
 
